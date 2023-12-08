@@ -37,6 +37,9 @@ function MainDesign(){
             <div>
                   <img src="/images/profile.png" class='image' />
             </div>
+            <div>
+            <img src="/images/work.png" height={200} class='work'/>
+            </div>
         </div>
     )
 }
