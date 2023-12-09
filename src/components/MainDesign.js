@@ -6,10 +6,10 @@ function MainDesign(){
             <nav>
                 <img  src="/images/logo.png" height={200} class='logo'/>
                 <ul>
+                    <li><a href="#">About</a></li>
                     <li><a href="#">Skills</a></li>
-                    <li><a href="#">Open Source</a></li>
-                    <li><a href="#">Projects</a></li>
-                    <li><a href="#">Achievements</a></li>
+                    <li><a href="#">Proficient</a></li>
+                    <li><a href="#">Project</a></li>
                     <li><a href="#">Blogs</a></li>
                     <li><a href="#">Talks</a></li>
                     <li><a href="#">Contact Me</a></li>
@@ -36,9 +36,6 @@ function MainDesign(){
             </div>
             <div>
                   <img src="/images/profile.png" class='image' />
-            </div>
-            <div>
-            <img src="/images/work.png" height={200} class='work'/>
             </div>
         </div>
     )
